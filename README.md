@@ -2,10 +2,7 @@
 </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://NaughtyFoxGame/github.io/pages/">pages</a></h1>
-
-      <h1>Резюме</h1>
+<h1>Резюме</h1>
 <div class="page" title="Page 1">
 <div class="section">
 <div class="layoutArea">
