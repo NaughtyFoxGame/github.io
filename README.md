@@ -25,7 +25,7 @@
 <p><span>Занятость</span><span>: </span><span>полная занятость<br />График работы</span><span>: </span><span>удаленная работа</span><span>, </span><span>полный день <span></span></p>
 <p><span>Опыт работы </span><span>&mdash; 5 </span><span>лет </span></p>
 <h3><span>ООО ИК СИБИНТЕК </span></h3>
-<p><span>Уфа</span><span></p>
+<p><span>Уфа</span></p>
 <p><span>Деятельность по созданию и использованию баз данных и информационных ресурсов</span></p>
 <p><span>Системный администратор</span></p>
 </div>
