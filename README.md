@@ -1,5 +1,5 @@
 # github.io
-</head>
+<head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
 <h1>Резюме</h1>
@@ -9,7 +9,7 @@
 <div class="column">
 <h2><span>Заводчиков Константин Сергеевич </span></h2>
 <p><span>Пол: Мужской</span><span><p> 
-<p</span><span>Дата рождения: </span><span>28 </span><span>марта </span><span>1997, 25 лет </span></p>
+<p></span><span>Дата рождения: </span><span>28 </span><span>марта </span><span>1997, 25 лет </span></p>
 
 <p><strong>Проживает</strong><span>: </span><span>Уфа<br /><strong>Гражданство</strong></span><span>: </span><span>Россия</span><span>. </span><span>Только удаленный режим работы</span></p>
 <p><span>Должность: Системный администратор&nbsp;</span></p>
