@@ -35,7 +35,7 @@
 </div>
 <div class="layoutArea">
 <div class="column">
-<p><span>Ноябрь </span><span>2019 &mdash; </span><span>настоящее время </span></p>
+<p><span>Ноябрь 2019 &mdash; </span><span>настоящее время </span></p>
 </div>
 </div>
 <div class="layoutArea">
