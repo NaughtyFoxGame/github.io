@@ -13,7 +13,7 @@
 
 
 <p><strong>Проживает</strong><span>: </span><span>Уфа<br /><strong>Гражданство</strong></span><span>: </span><span>Россия</span><span>. </span><span>Только удаленный режим работы</span></p>
-<p><span>Должность: Системный администратор&nbsp;</span></p>
+<p><span>Должность: Системный администратор</span></p>
 
 <p><span>Специализации:</span></p>
 <ul style="list-style-type: square;">
@@ -23,7 +23,7 @@
 <li><span>Тестирование информационной системы </span></li>
 </ul>
 <p><span>Занятость</span><span>: </span><span>полная занятость<br />График работы</span><span>: </span><span>удаленная работа</span><span>, </span><span>полный день <span></span></p>
-<p><span>Опыт работы </span><span>&mdash; 5 </span><span>лет </span></p>
+<p><span>Опыт работы: 5 лет </span></p>
 <h3><span>ООО ИК СИБИНТЕК </span></h3>
 <p><span>Уфа</span></p>
 <p><span>Деятельность по созданию и использованию баз данных и информационных ресурсов</span></p>
@@ -35,7 +35,7 @@
 </div>
 <div class="layoutArea">
 <div class="column">
-<p><span>Ноябрь 2019 &mdash; </span><span>настоящее время </span></p>
+<p><span>Ноябрь 2019; </span><span>настоящее время </span></p>
 </div>
 </div>
 <div class="layoutArea">
