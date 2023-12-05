@@ -15,7 +15,7 @@
 <p><strong>Проживает</strong><span>: </span><span>Уфа<br /><strong>Гражданство</strong></span><span>: </span><span>Россия</span><span>. </span><span>Только удаленный режим работы</span></p>
 <p><span>Должность: Системный администратор&nbsp;</span></p>
 
-<p><span>Специализации</span><span>:</span></p>
+<p><span>Специализации:</span></p>
 <ul style="list-style-type: square;">
 <li><span>Администратор информационной системы</span></li>
 <li><span>Администратор баз данных </span></li>
